@@ -16,6 +16,5 @@ name='mlproject',
 version='0.0.1',
 author='Sai Rohith',
 packages=find_packages(),
-
 requires=get_requirements('requirements.txt')
 )
